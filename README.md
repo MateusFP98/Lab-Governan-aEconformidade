@@ -1,6 +1,6 @@
 # Lab-GovernançaEconformidade
- ##Introdução
+ ## Introdução
   Aprendemos na pratica sobre portal de confianla do Serviços 
   Bloqueios de resourse group
-  ##Microsoft Perview
+  ## Microsoft Perview
   criando e consfigurando uma conta
